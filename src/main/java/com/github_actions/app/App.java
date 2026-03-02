@@ -13,7 +13,6 @@ public class App {
 
         Operacion op = new Operacion(n1, n2);
 
-        System.out.println("\n--- Resultados ---");
         System.out.println("Suma: " + op.sumar());
         System.out.println("Resta: " + op.restar());
         System.out.println("Multiplicación: " + op.multiplicar());
