@@ -1,4 +1,4 @@
-name: Java CI con maven
+name: Mi workflow
 
 on: [push]
 
